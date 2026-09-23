@@ -1,5 +1,9 @@
 # 6-DOF Robotic Arm - CAD & Simulation
 
+<p align="center">
+  <img src="images/Robotic Arm.png" width="700">
+</p>
+
 ## Overview
 
 This project focuses on the design and simulation of a **6-DOF robotic manipulator**.
