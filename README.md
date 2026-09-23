@@ -1,5 +1,4 @@
-# Robotic Arm
-# 6-DOF Robotic Arm — CAD & Simulation
+# 6-DOF Robotic Arm - CAD & Simulation
 
 ## Overview
 
