@@ -1,7 +1,7 @@
 # 6-DOF Robotic Arm - CAD & Simulation
 
 <p align="center">
-  <img src="Images_Robotic Arm/Image Robotic Arm.png" width="200">
+  <img src="Drawings_Robotic Arm/Image Robotic Arm.png" width="200">
 </p>
 
 ## Overview
